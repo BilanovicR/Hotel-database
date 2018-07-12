@@ -1,0 +1,71 @@
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.exe
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.pdb
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.exe
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.pdb
+E:\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe.config
+E:\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.exe
+E:\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.pdb
+E:\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe
+E:\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.pdb
+E:\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.csproj.CopyComplete
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel\prof\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\obj\Debug\sql1.csproj.CopyComplete
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1\prof\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel V.1.1\prof\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\obj\Debug\sql1.csproj.CopyComplete
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.2\prof\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\obj\Debug\sql1.csproj.CopyComplete
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Marko\Desktop\BP projekat Hotel V.1.4\prof\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\User\Desktop\BP projekat Hotel v.2.0\prof\sql1\sql1\obj\Debug\sql1.pdb
